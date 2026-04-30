@@ -56,7 +56,7 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 | 📝 [Gestor de Notas](https://github.com/JessicaFG90/gestor-notas) | Python | App de consola con menú interactivo y colorama |
 | 🎓 [Gestión Académica](https://github.com/JessicaFG90/gestion-academica) | JavaScript · Node.js | Sistema de estudiantes y notas con validación y menú en consola |
 | 🐾 [Web Protectora](https://github.com/JessicaFG90/web-protectora) | HTML · CSS | Web multipage de una fundación de animales |
-| 🐚 [Scripts Bash](https://github.com/JessicaFG90/scripts-bash) | Bash · Linux | Colección de scripts de consola: juegos, utilidades y análisis de red |
+| 🐚 [Scripts Bash](https://github.com/JessicaFG90/Bash) | Bash · Linux | Colección de scripts de consola: juegos, utilidades y análisis de red |
 
 ---
 
