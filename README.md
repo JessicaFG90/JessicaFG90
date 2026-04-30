@@ -21,12 +21,18 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌐 Lenguajes de marcado y estilo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🖥️ Sistemas operativos
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 💻 IDEs y editores
 
@@ -47,9 +53,10 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 | Proyecto | Tecnologías | Descripción |
 |---|---|---|
 | 🗓️ [Gestor de Eventos](https://github.com/JessicaFG90/gestor-eventos) | HTML · CSS · JS | SPA con DOM dinámico, filtros, favoritos y notificaciones toast |
-| 📝 [Gestor de Notas](https://github.com/JessicaFG90/gestor-notas-py) | Python | App de consola con menú interactivo y colorama |
+| 📝 [Gestor de Notas](https://github.com/JessicaFG90/gestor-notas) | Python | App de consola con menú interactivo y colorama |
 | 🎓 [Gestión Académica](https://github.com/JessicaFG90/gestion-academica) | JavaScript · Node.js | Sistema de estudiantes y notas con validación y menú en consola |
 | 🐾 [Web Protectora](https://github.com/JessicaFG90/web-protectora) | HTML · CSS | Web multipage de una fundación de animales |
+| 🐚 [Scripts Bash](https://github.com/JessicaFG90/scripts-bash) | Bash · Linux | Colección de scripts de consola: juegos, utilidades y análisis de red |
 
 ---
 
@@ -60,4 +67,4 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 
 ---
 
-> *"Lo que funciona, no se toca."* ✋🏻⛔
+> *"Lo que funciona, no se toca." ✋🏻⛔
