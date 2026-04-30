@@ -60,11 +60,4 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 
 ---
 
-## 📊 GitHub Stats
-
-![Jessica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaFG90&theme=transparent&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaFG90&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-> *"Lo que funciona, no se toca."* ✋🏻⛔
+> *"Si funciona, no se toca."* ✋🏻⛔
