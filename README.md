@@ -57,6 +57,7 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 | 🎓 [Gestión Académica](https://github.com/JessicaFG90/gestion-academica) | JavaScript · Node.js | Sistema de estudiantes y notas con validación y menú en consola |
 | 🐾 [Web Protectora](https://github.com/JessicaFG90/web-protectora) | HTML · CSS | Web multipage de una fundación de animales |
 | 🐚 [Scripts Bash](https://github.com/JessicaFG90/Bash) | Bash · Linux | Colección de scripts de consola: juegos, utilidades y análisis de red |
+| 🚗 [Gestor de Vehículos](https://github.com/JessicaFG90/gestor-vehiculos-jdbc) | Java · MySQL · JDBC | App MVC con dos UIs intercambiables (consola y Swing) conectada a MySQL |
 
 ---
 
