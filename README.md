@@ -1,13 +1,13 @@
 # ¡Hola! Soy Jessica (Jessy o Jess para los amigos) 👋🏻
 
-Estudiante de **1º DAM (Desarrollo de Aplicaciones Multiplataforma)**.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 Aprendiendo a programar de forma seria, con muchos errores por el camino y aún más Monster 🥤
 
 ---
 
 ## 💫 Sobre mí
 
-🎓 Actualmente cursando **1º DAM** (finalizando el curso 2025/2026).
+🎓 Actualmente cursando **DAM** (finalizando el curso 2025/2026).
 <br>
 💻 Apasionada del desarrollo de aplicaciones y el diseño de interfaces.
 <br>
