@@ -7,11 +7,16 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 
 ## 💫 Sobre mí
 
-- 🎓 Actualmente cursando **1º DAM** (finalizando el curso 2025/2026).
-- 💻 Apasionada del desarrollo de aplicaciones y el diseño de interfaces.
-- 🎮 Meta futura: entrar en el sector de los **videojuegos** ampliando lo aprendido en DAM.
-- 🌱 Aprendiendo cada día: Java, Python, Bash, JavaScript, HTML/CSS...
-- 🐾 En mis ratos libres: videojuegos, mis gatas y mi perra.
+🎓 Actualmente cursando **1º DAM** (finalizando el curso 2025/2026).
+<br>
+💻 Apasionada del desarrollo de aplicaciones y el diseño de interfaces.
+<br>
+🎮 Meta futura: entrar en el sector de los **videojuegos** ampliando lo aprendido en DAM.
+<br>
+🌱 Aprendiendo cada día: Java, Python, Bash, JavaScript, HTML/CSS...
+<br>
+🐾 En mis ratos libres: videojuegos, mis gatas y mi perra.
+<br>
 
 ---
 
