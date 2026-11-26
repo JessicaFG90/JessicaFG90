@@ -7,7 +7,7 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 
 ## 💫 Sobre mí
 
-🎓 Actualmente cursando **DAM** (con ganas de empezar el segundo curso en septiembre de 2026).
+🎓 Actualmente cursando **DAM**.
 <br>
 💻 Apasionada del desarrollo de aplicaciones, con especial interés en la lógica y el tratamiento de datos..
 <br>
