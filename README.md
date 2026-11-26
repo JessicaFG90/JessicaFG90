@@ -13,7 +13,7 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 <br>
 🎮 Meta futura: entrar en el sector de los **videojuegos** ampliando lo aprendido en DAM, con vista a especializarme a medio plazo en **Data Analytics** aplicado a videojuegos.
 <br>
-🌱 Aprendiendo cada día: Java, Python, Bash, JavaScript, HTML/CSS...
+🌱 Aprendiendo cada día: Java, Python, Kotlin, Bash, JavaScript, HTML/CSS...
 <br>
 🐾 En mis ratos libres: videojuegos, mis gatas y mi perra.
 <br>
