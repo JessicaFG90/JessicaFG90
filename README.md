@@ -9,7 +9,7 @@ Aprendiendo a programar de forma seria, con muchos errores por el camino y aún 
 
 🎓 Actualmente cursando **DAM**.
 <br>
-💻 Apasionada del desarrollo de aplicaciones, con especial interés en la lógica y el tratamiento de datos..
+💻 Apasionada del desarrollo de aplicaciones, con especial interés en la lógica y el tratamiento de datos.
 <br>
 🎮 Meta futura: entrar en el sector de los **videojuegos** ampliando lo aprendido en DAM, con vista a especializarme a medio plazo en **Data Analytics** aplicado a videojuegos.
 <br>
